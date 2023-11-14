@@ -9,3 +9,7 @@ I'm a novice BBC BASIC programmer!  These programs may or may not be the best me
 
 JOYTEST.BAS
 Console8 compatible joystick code in BBC BASIC.
+
+SIMPLE-SPRITE-DEMO.BAS  (and sprites .rgb files.)
+A very simplified sprite demo.  
+Sprites created with Sprite Editor (https://github.com/robogeek42/agon_basic_mycode)
