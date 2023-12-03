@@ -16,3 +16,8 @@ Sprites created with Sprite Editor (https://github.com/robogeek42/agon_sped)
 
 LANDERx.BAS
 This is a project where I'm learning BBC BASIC by doing.  A simple Lunar Lander Game which requires a Console8 compatible joystick.  The file requires the lander rgb sprites to work correctly.  I'll leave older version of LANDERx.BAS as the program moves forward.
+
+LCDMODULE.BAS
+A simple demo of a HD44780 LCD module connected to the AgonLight's GPIO
+
+
