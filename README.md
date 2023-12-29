@@ -20,4 +20,6 @@ This is a project where I'm learning BBC BASIC by doing.  A simple Lunar Lander 
 LCDMODULE.BAS
 A simple demo of a HD44780 LCD module connected to the AgonLight's GPIO
 
+WEBSERVER.BAS
+A very simple demo of a webserver in BBC BASIC for the MOD-WIFI-ESP8266.  Use TESTER.BIN from the Snail project to configure the baud rate of the ESP8266 to 9600 baud.
 
