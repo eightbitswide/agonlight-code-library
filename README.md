@@ -23,3 +23,5 @@ A simple demo of a HD44780 LCD module connected to the AgonLight's GPIO
 WEBSERVER.BAS
 A very simple demo of a webserver in BBC BASIC for the MOD-WIFI-ESP8266.  Use TESTER.BIN from the Snail project to configure the baud rate of the ESP8266 to 9600 baud.
 
+ZIMODEM-SETTIME.BAS
+Set the AgonLight2 clock with a MOD-WIFI-ESP8266 running Zimodem firmware.
