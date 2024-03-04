@@ -25,3 +25,7 @@ A very simple demo of a webserver in BBC BASIC for the MOD-WIFI-ESP8266.  Use TE
 
 ZIMODEM-SETTIME.BAS
 Set the AgonLight2 clock with a MOD-WIFI-ESP8266 running Zimodem firmware.
+
+SPRITE PACK 1
+Some random game sprites in RGBA8 mode.
+
