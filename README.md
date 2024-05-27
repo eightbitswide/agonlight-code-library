@@ -24,10 +24,10 @@ WEBSERVER.BAS
 A very simple demo of a webserver in BBC BASIC for the MOD-WIFI-ESP8266.  Use TESTER.BIN from the Snail project to configure the baud rate of the ESP8266 to 9600 baud.
 
 GLASSTTY.BAS
-A Viewdata client in BBC BASIC for the MOD-WIFI-ESP32 running Zimodem firmware
+A Viewdata client in BBC BASIC for the MOD-WIFI-ESP3266 running Zimodem firmware
 
 TERM.BAS
-A simple terminal in BBC BASIC for the MOD-WIFI-ESP32 running Zimodem Firmware
+A simple terminal in BBC BASIC for the MOD-WIFI-ESP3266 running Zimodem Firmware
 
 
 ZIMODEM-SETTIME.BAS
