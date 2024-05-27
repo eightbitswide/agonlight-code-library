@@ -1,0 +1,24 @@
+GLASSTTY is a simple Viewdata client written in BBC BASIC to connect
+to the GLASSTTY.COM TELSTAR System.
+
+Requirements: 
+    
+  *  An AgonLight with a MOD-WIFI-ESP32 loaded with Zimodem Firmware.
+   
+  *  The GLASSTTY.BAS client.
+
+Information on the GLASSTTY TELSTAR Viewdata System can be found at:
+https://glasstty.com/telstar
+
+While the Zimodem firmware must be set at 9600 baud, the service
+itself streams at a realistic 2400 baud, providing the BASIC client
+plenty of time to keep up with the connection.
+
+GLASSTTY also provides a gateway connection to several other
+compatible online services.  (Option 6 once connection.)
+
+GLASSTTY.BAS supports most Viewdata commands and graphics, 
+except double-height text.
+
+Eightbitswide
+
